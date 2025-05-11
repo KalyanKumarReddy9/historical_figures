@@ -1,4 +1,4 @@
-📘** 1. Historical Figure Information App**
+📘1. Historical Figure Information App
 Description:
 A simple Flask-based web application that allows users to search for any historical figure and returns a summary using Wikipedia.
 
